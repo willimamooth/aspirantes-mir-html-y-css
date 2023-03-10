@@ -1,0 +1,27 @@
+form {
+    color:white;
+    margin: 0 auto;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background: linear-gradient(#bd09b7 , #6b4cf5) ;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 20px;
+    gap: 5px;
+    font-family: sans-serif;
+ }
+
+ input, select {
+    padding: 5px;
+ }
+
+ button {
+    padding: 5px 15px;
+ }
+
+ .button-container{
+    display: flex;
+    justify-content: end;
+
+ }
